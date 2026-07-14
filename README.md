@@ -76,5 +76,3 @@ python -m unittest discover tests
 - Accept 3-letter amino acid codes as input
 - Hydrophobicity / GRAVY score calculation
 
-## License
-MIT
