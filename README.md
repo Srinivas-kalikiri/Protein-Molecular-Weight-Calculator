@@ -25,7 +25,7 @@ protein-molecular-weight-calculator/
 
 ## Setup
 ```bash
-git clone https://github.com/<your-username>/protein-molecular-weight-calculator.git
+git clone https://github.com/Srinivas-kalikiri/protein-molecular-weight-calculator.git
 cd protein-molecular-weight-calculator
 ```
 No external dependencies required — just Python 3.9+.
